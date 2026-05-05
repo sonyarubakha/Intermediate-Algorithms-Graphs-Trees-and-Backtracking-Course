@@ -1,6 +1,6 @@
 '''Module to invert binary tree.'''
 
-class Treenode:
+class TreeNode:
     '''
     Definition for a binary tree node.
     '''
